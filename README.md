@@ -37,16 +37,16 @@ Sentinel Analytic rules  <br/>
 <img src="https://i.imgur.com/CC664dt.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Setting up User Entity behaviour <br/>
+Setting up User Entity behavior <br/>
 <img src="https://i.imgur.com/8soDNdU.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Logging into PassBolt from the IP address provided by EC2 <br/>
-<img src="https://i.imgur.com/jzhM7rE.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Creating watchlist for  <br/>
+<img src="https://i.imgur.com/GgIis0h.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br /> 
-Setting up SMTP server <br/>
-<img src="https://i.imgur.com/8hsyHw7.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Creating an Analytic Scheduled Rule using KQL <br/>
+<img src="https://i.imgur.com/fbAnegq.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
 Downloading PassBolt extension and added to Chrome <br/>
