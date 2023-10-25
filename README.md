@@ -53,12 +53,12 @@ Alert Enrichment <br/>
 <img src="https://i.imgur.com/422hjIQ.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Setting strong passwords for the manager <br/>
-<img src="https://i.imgur.com/TnOn23i.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Custom and Alert Information <br/>
+<img src="https://i.imgur.com/vtiQ3XD.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Password Manager created <br/>
-<img src="https://i.imgur.com/yEqTIW9.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Query Scheduling <br/>
+<img src="https://i.imgur.com/PAadSOC.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
 </p>
