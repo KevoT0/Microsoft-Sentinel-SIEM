@@ -37,8 +37,8 @@ Sentinel Analytic rules  <br/>
 <img src="https://i.imgur.com/CC664dt.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-EC2 Deployed <br/>
-<img src="https://i.imgur.com/271Svdd.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Setting up User Entity behaviour <br/>
+<img src="https://i.imgur.com/8soDNdU.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
 Logging into PassBolt from the IP address provided by EC2 <br/>
