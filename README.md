@@ -29,8 +29,8 @@ Custom deployment configuration <br/>
 <img src="https://i.imgur.com/nK1qtb6.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Assigni <br/>
-<img src="https://i.imgur.com/dTL4Zsc.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Diagnostic Settings <br/>
+<img src="https://i.imgur.com/U4Fy88k.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
 Opening the needed port  <br/>
