@@ -33,8 +33,8 @@ Diagnostic Settings <br/>
 <img src="https://i.imgur.com/U4Fy88k.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Opening the needed port  <br/>
-<img src="https://i.imgur.com/xh3WAYl.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Sentinel Analytic rules  <br/>
+<img src="https://i.imgur.com/CC664dt.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
 EC2 Deployed <br/>
