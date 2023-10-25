@@ -21,15 +21,15 @@ Brief Diagram showing the entire project <br/>
 <img src="https://i.imgur.com/RrBNnfz.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Deploying Passbolt in AWS from PassBolt website  <br/>
-<img src="https://i.imgur.com/Sxwz13p.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Github profile to deploy Azure (https://github.com/Azure/Azure-Sentinel/tree/master/Tools/Sentinel-All-In-One)  <br/>
+<img src="https://i.imgur.com/Jsmrq5T.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Subscribing to PassBolt Community edition in AWS <br/>
-<img src="https://i.imgur.com/mPqfpBo.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Custom deployment configuration <br/>
+<img src="https://i.imgur.com/nK1qtb6.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Assigning security Group and Key pair for the Password manager in AWS <br/>
+Assigni <br/>
 <img src="https://i.imgur.com/dTL4Zsc.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
