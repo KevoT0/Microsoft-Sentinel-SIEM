@@ -49,8 +49,8 @@ Creating an Analytic Scheduled Rule using KQL <br/>
 <img src="https://i.imgur.com/fbAnegq.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Downloading PassBolt extension and added to Chrome <br/>
-<img src="https://i.imgur.com/gjUHxOr.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Alert Enrichment <br/>
+<img src="https://i.imgur.com/422hjIQ.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
 Setting strong passwords for the manager <br/>
