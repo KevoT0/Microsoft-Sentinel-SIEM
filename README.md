@@ -8,7 +8,7 @@ This Project shows hands-on experience on how to deploy a Security Information a
 <h2>Languages and Utilities Used</h2>
 
 - <b>Google Chrome</b> 
-- <b>AWS</b>
+- <b>Azure Microsoft Sentinel</b>
 
 <h2>Environments Used </h2>
 
