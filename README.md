@@ -12,7 +12,7 @@ This Project shows hands-on experience on how to deploy a Security Information a
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10 PC</b> (21H2)
+- <b>Windows 10 PC</b>
 
 <h2>Program walk-through:</h2>
 
