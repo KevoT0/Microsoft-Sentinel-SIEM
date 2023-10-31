@@ -101,7 +101,7 @@ Generated incident Detected by Sentinel <br/>
 <img src="https://i.imgur.com/EMLUxb1.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
-Incident from Tor findings <br/>
+successful sign in from Tor <br/>
 <img src="https://i.imgur.com/1r4NTmL.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
