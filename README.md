@@ -18,91 +18,91 @@ This Project shows hands-on experience on how to deploy a Security Information a
 
 <p align="center">
 Brief Diagram showing the entire project <br/>
-<img src="https://i.imgur.com/RrBNnfz.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<img src="https://i.imgur.com/RrBNnfz.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
 Github profile to deploy Azure (https://github.com/Azure/Azure-Sentinel/tree/master/Tools/Sentinel-All-In-One)  <br/>
-<img src="https://i.imgur.com/Jsmrq5T.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<img src="https://i.imgur.com/Jsmrq5T.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
 Custom deployment configuration <br/>
-<img src="https://i.imgur.com/nK1qtb6.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<img src="https://i.imgur.com/nK1qtb6.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
 Diagnostic Settings <br/>
-<img src="https://i.imgur.com/U4Fy88k.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<img src="https://i.imgur.com/U4Fy88k.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
 Sentinel Analytic rules  <br/>
-<img src="https://i.imgur.com/CC664dt.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<img src="https://i.imgur.com/CC664dt.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
 Setting up User Entity behavior <br/>
-<img src="https://i.imgur.com/8soDNdU.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<img src="https://i.imgur.com/8soDNdU.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
 Creating watchlist for  <br/>
-<img src="https://i.imgur.com/GgIis0h.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<img src="https://i.imgur.com/GgIis0h.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br /> 
 Creating an Analytic Scheduled Rule using KQL <br/>
-<img src="https://i.imgur.com/fbAnegq.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<img src="https://i.imgur.com/fbAnegq.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
 Alert Enrichment <br/>
-<img src="https://i.imgur.com/422hjIQ.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<img src="https://i.imgur.com/422hjIQ.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
 Custom and Alert Information <br/>
-<img src="https://i.imgur.com/vtiQ3XD.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<img src="https://i.imgur.com/vtiQ3XD.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
 Query Scheduling <br/>
-<img src="https://i.imgur.com/PAadSOC.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<img src="https://i.imgur.com/PAadSOC.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
 Incident Setting <br/>
-<img src="https://i.imgur.com/QXPiu8p.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<img src="https://i.imgur.com/QXPiu8p.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
-Created Analytic Rule <br/>
-<img src="https://i.imgur.com/olIw9ma.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Disabling Security Features <br/>
+<img src="https://i.imgur.com/Qq0GOnM.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
-Custom deployment configuration <br/>
-<img src="https://i.imgur.com/nK1qtb6.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+creating a new user <br/>
+<img src="https://i.imgur.com/N8Dz4S0.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
-Diagnostic Settings <br/>
-<img src="https://i.imgur.com/U4Fy88k.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Assigning roles to the new user <br/>
+<img src="https://i.imgur.com/WEwZ6AL.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
-Sentinel Analytic rules  <br/>
-<img src="https://i.imgur.com/CC664dt.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+ New User Password Update  <br/>
+<img src="https://i.imgur.com/SdxkiLC.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
-Setting up User Entity behavior <br/>
-<img src="https://i.imgur.com/8soDNdU.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Logging into the new user settings to perform an attack <br/>
+<img src="https://i.imgur.com/SsiEdDs.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
-Creating watchlist for  <br/>
-<img src="https://i.imgur.com/GgIis0h.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Changing user's password for exploitation <br/>
+<img src="https://i.imgur.com/EEP0pIt.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br /> 
-Creating an Analytic Scheduled Rule using KQL <br/>
-<img src="https://i.imgur.com/fbAnegq.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Disabling and deleting Diagnostic settings <br/>
+<img src="https://i.imgur.com/V3TiyeE.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
-Alert Enrichment <br/>
-<img src="https://i.imgur.com/422hjIQ.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Disabling health monitoring <br/>
+<img src="https://i.imgur.com/a8k417M.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
-Custom and Alert Information <br/>
-<img src="https://i.imgur.com/vtiQ3XD.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Generated incident Detected by Sentinel <br/>
+<img src="https://i.imgur.com/EMLUxb1.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
-Query Scheduling <br/>
-<img src="https://i.imgur.com/PAadSOC.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Incident from Tor findings <br/>
+<img src="https://i.imgur.com/1r4NTmL.png" height="80%" width="80%" alt="Microsoft Sentinel SIEM Steps"/>
 <br />
 <br />
 </p>
